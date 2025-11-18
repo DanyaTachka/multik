@@ -66,18 +66,7 @@ span {
     letter-spacing: 0%;
     text-shadow: 0px 4px 4px  #00000040;
 }
-.a{
-    padding-top: 10px;
-    padding-right: 20px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    background-color: #B99FEA;
-    border-radius: 8px;
-    line-height: 20. 08px;
-    font-size: 14px;
-    letter-spacing: 0%;
-}
-.mikimouse-link {
+.mikky-link {
     padding: 10px 20px;
     background-color: #B99FEA;
     border-radius: 8px;
@@ -151,7 +140,7 @@ span {
 }
 .koko-link {
     padding: 10px 20px;
-    background-color: #B99FEA;
+    background-color: #EBA789;
     border-radius: 8px;
     font-size: 16px;
     line-height: 22.08px;
@@ -227,23 +216,11 @@ span {
     letter-spacing: 0%;
     text-shadow: 0px 4px 4px  #00000040;
 }
-.a{
-    padding-top: 10px;
-    padding-right: 20px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    background-color: #B99FEA;
-    border-radius: 8px;
-    line-height: 20. 08px;
-    font-size: 14px;
-    letter-spacing: 0%;
-}
 .moeana-link {
     padding: 10px 20px;
-    background-color: #B99FEA;
+    background-color: #96DBC6;
     border-radius: 8px;
     font-size: 16px;
     line-height: 22.08px;
     color: #000000;
-    
 }
